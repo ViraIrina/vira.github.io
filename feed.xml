@@ -7,19 +7,19 @@
 		<language>es-ES</language>
 		<item>
 			<guid>1</guid>
-			<title>Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
+			<title>NEW_Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:29:00 +0000</pubDate>
+			<pubDate>Tue, 08 Jun 2022 12:29:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>2</guid>
 			<title>title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
+			<description>NEW_<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
+			<pubDate>Tue, 07 Jun 2022 13:21:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>1</guid>
@@ -47,7 +47,7 @@
 		</item>
                 <item>
 			<guid>3</guid>
-			<title>title</title>
+			<title>title3</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
