@@ -11,7 +11,7 @@
 			<dc:creator>
 			<![CDATA[ Rossana Prezioso ]]>
 			</dc:creator>
-			<pubDate>Mon, 20 Jun 2022 10:14:31 +0000</pubDate>
+			<pubDate>Mon, 30 Jun 2022 10:14:31 +0000</pubDate>
 			<category>
 			<![CDATA[ Economia e Mercati ]]>
 			</category>
@@ -24,6 +24,21 @@
 			</description>
 			<description>
 			<![CDATA[ <p>Le notizie che arrivano dalla Francia confermano il trend che si era ormai delineato da tempo. In caso di elezioni, il vero vincitore è l’astensionismo. Per Parigi, infatti, si è arrivati al 54%. Ed è proprio da questo dato che bisogna partire per un’analisi del voto francese. Voto che ha portato l’attuale presidente Emmanuel Macron, con il suo partito, ad un crollo che, sebbene prevedibile, non lo era stato in queste proporzioni. Così come, in queste proporzioni, non era stata prevista la cavalcata di Marine Le Pen che, invece, ha più che decuplicato la sua presenza in Parlamento. Infatti l’esponente della destra ha portato da 8 a 89 i suoi rappresentanti.</p> <p>Ma di tutti questo i mercati, oggi, non sembrano interessarsi. Ad esempio, l’Europa non si fa influenzare dalle paure che hanno portato alcuni mercati, tra cui Tokyo, a chiudere con il segno meno. Infatti l’apertura della settimana nel Vecchio Continente parte all’insegna di un possibile tentativo di rimbalzo. Invece l’Asia ha registrato una seduta in rosso proprio a causa delle possibili paure per l’arrivo di una recessione.</p> <p>Eventualità che è stata prospettata da più parti. Diverso, invece, l’approccio in altre zone. <a href="https://www.proiezionidiborsa.it/oggi-wall-street-invia-segnali-positivi-dopo-lo-schiaffo-delle-scorse-sedute-ma-le-streghe-sono-in-agguato/">Con Wall Street chiusa per festività a causa del Juneteenth National Independence Day,</a> gli occhi degli operatori sono puntati sugli interventi del numero uno della BCE Christine Lagarde, e del capo economista, Philip Lane. La speranza è che possano fornire dettagli più precisi sul sistema di aiuti per i Paesi periferici.</p> <h2>L’Europa non si fa influenzare dalle paure delle Borse asiatiche e procede cauta ma positiva</h2> <p>Attualmente il pericolo maggiore, con il rialzo dei tassi a volte potenzialmente troppo repentino per alcune Nazioni, è che si allarghi la forbice dello spread. In questo caso l’intenzione della Banca centrale europea sarebbe quella di entrare in gioco nel caso in cui ciò si verificasse. Quindi in corso d’opera e solo in caso di effettiva necessità. Ma la mancanza di dettagli ha finora gettato un’ombra di scetticismo tra gli operatori. Parallelamente l’oro attira l’attenzione degli analisti di Goldman Sachs che rivedono le stime.</p> <p>Per il metallo giallo si parla di 2.500 dollari per oncia entro la fine dell’anno. A dare una mano, tra i vari fattori, anche la crescente paura degli investitori per le difficili condizioni economiche in arrivo. Ma guardando ai mercati, almeno per oggi, sembra tornata la voglia di ridare fiducia alla Lagarde ed al suo staff. Una prova può essere quel +0,37% <a href="https://it.tradingview.com/chart/?symbol=TVC%3AFTMIB" target="_blank" rel="noopener">registrato</a> da Piazza Affari intorno alle 11.30. Certamente non un risultato che autorizza l’entusiasmo, ma comunque una dimostrazione del fatto che il Vecchio Continente, peraltro tutto in positivo a metà mattinata, preferisce aspettare che i vertici della BCE diano (o meno) informazioni utili.</p> <p><strong>Approfondimento</strong><br /> <a href="https://www.proiezionidiborsa.it/category/il-punto-sui-mercati/">Il punto sui mercati</a></p> ]]>
+			<p>TEST Link:<br/>
+			<ul>
+			<li><a href="www.site.com">text A &amp; 'B'</a></li>
+			<li><a href=" http://www.site.com/path/to/place/ "></a></li>
+			<li><a href="https://escaped.net/s?aa=bb&amp;cc=25&amp;idx=1&amp;scene=21#wechat_redirect">Test1</a></li>
+			<li><a href="https://notescaped.net/s?aa=bb;cc=25;idx=1;scene=21#wechat_redirect">Test2</a></li>
+			<li><a href="https://www.unsafe.com/ac{d}e[f ]\g|h^i,j">Test3</a></li>
+			<li><a href="https://www.unsafe.com/ac%7Bd%7De%5Bf%20%5D%5Cg%7Ch%5Ei">Test4</a></li>
+			<li><a href="https://www.unsafe.com/ac%7Bd%7De[f ]\g|h^i">Test5</a></li>
+			<li><a href="colon.com/AA:BB&AA%3ABB">Test6</a></li>
+			<li><a href="https://ru.wikipedia.org/wiki/История_Интернета#СССР-США">Test7</a></li>
+			<li><a href="https://login:password@www.host.com:80/path/to/q?a=b&amp;c=d&amp;e=00#anchor_to">Test8</a></li>
+			<li><a href="http://site.com/path+with+spaces+file.pdf">Test9</a></li>
+			<li><a href="http://site.com/path with spaces%20file.pdf">Test10</a></li>
+			</p>			
 			</description>
 		</item>
 		<item>
