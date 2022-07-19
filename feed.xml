@@ -35,6 +35,7 @@
 			<li><a href="https://login:password@www.host.com:80/path/to/q?a=b&amp;c=d&amp;e=00#anchor_to"></a></li>
 			<li><a href="http://site.com/path+with+spaces+file.pdf"></a></li>
 			<li><a href="http://site.com/path with spaces%20file.pdf"></a></li>
+			<li><a href="https://it.tradingview.com/chart/?symbol=TVC%3AFTMIB" target="_blank" rel="noopener"></a></li>
 			</p>
 			</description>
 		</item>
