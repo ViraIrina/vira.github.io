@@ -25,16 +25,16 @@
 			<ul>
 			<li><a href="www.site.com">text A &amp; 'B'</a></li>
 			<li><a href=" http://www.site.com/path/to/place/ "></a></li>
-			<li><a href="https://escaped.net/s?aa=bb&amp;cc=25&amp;idx=1&amp;scene=21#wechat_redirect">Test1</a></li>
-			<li><a href="https://notescaped.net/s?aa=bb;cc=25;idx=1;scene=21#wechat_redirect">Test2</a></li>
-			<li><a href="https://www.unsafe.com/ac{d}e[f ]\g|h^i,j">Test3</a></li>
-			<li><a href="https://www.unsafe.com/ac%7Bd%7De%5Bf%20%5D%5Cg%7Ch%5Ei">Test4</a></li>
-			<li><a href="https://www.unsafe.com/ac%7Bd%7De[f ]\g|h^i">Test5</a></li>
-			<li><a href="colon.com/AA:BB&AA%3ABB">Test6</a></li>
-			<li><a href="https://ru.wikipedia.org/wiki/История_Интернета#СССР-США">Test7</a></li>
-			<li><a href="https://login:password@www.host.com:80/path/to/q?a=b&amp;c=d&amp;e=00#anchor_to">Test8</a></li>
-			<li><a href="http://site.com/path+with+spaces+file.pdf">Test9</a></li>
-			<li><a href="http://site.com/path with spaces%20file.pdf">Test10</a></li>
+			<li><a href="https://escaped.net/s?aa=bb&amp;cc=25&amp;idx=1&amp;scene=21#wechat_redirect"></a></li>
+			<li><a href="https://notescaped.net/s?aa=bb;cc=25;idx=1;scene=21#wechat_redirect"></a></li>
+			<li><a href="https://www.unsafe.com/ac{d}e[f ]\g|h^i,j"></a></li>
+			<li><a href="https://www.unsafe.com/ac%7Bd%7De%5Bf%20%5D%5Cg%7Ch%5Ei"></a></li>
+			<li><a href="https://www.unsafe.com/ac%7Bd%7De[f ]\g|h^i"></a></li>
+			<li><a href="colon.com/AA:BB&AA%3ABB"></a></li>
+			<li><a href="https://ru.wikipedia.org/wiki/История_Интернета#СССР-США"></a></li>
+			<li><a href="https://login:password@www.host.com:80/path/to/q?a=b&amp;c=d&amp;e=00#anchor_to">T</a></li>
+			<li><a href="http://site.com/path+with+spaces+file.pdf"></a></li>
+			<li><a href="http://site.com/path with spaces%20file.pdf"></a></li>
 			</p>
 			</description>
 		</item>
