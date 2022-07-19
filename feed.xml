@@ -32,7 +32,7 @@
 			<li><a href="https://www.unsafe.com/ac%7Bd%7De[f ]\g|h^i"></a></li>
 			<li><a href="colon.com/AA:BB&AA%3ABB"></a></li>
 			<li><a href="https://ru.wikipedia.org/wiki/История_Интернета#СССР-США"></a></li>
-			<li><a href="https://login:password@www.host.com:80/path/to/q?a=b&amp;c=d&amp;e=00#anchor_to">T</a></li>
+			<li><a href="https://login:password@www.host.com:80/path/to/q?a=b&amp;c=d&amp;e=00#anchor_to"></a></li>
 			<li><a href="http://site.com/path+with+spaces+file.pdf"></a></li>
 			<li><a href="http://site.com/path with spaces%20file.pdf"></a></li>
 			</p>
