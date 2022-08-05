@@ -11,7 +11,7 @@
 			<dc:creator>
 			<![CDATA[ Rossana Prezioso ]]>
 			</dc:creator>
-			<pubDate>Mon, 20 Jul 2022 00:30:31 +0000</pubDate>
+			<pubDate>Mon, 20 Aug 2022 00:30:31 +0000</pubDate>
 			<category>
 			<![CDATA[ Economia e Mercati ]]>
 			</category>
@@ -52,7 +52,7 @@
 			</description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 19 Jun 2022 12:29:00 +0000</pubDate>
+			<pubDate>Tue, 05 Aug 2022 12:29:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>2</guid>
@@ -60,15 +60,15 @@
 			<description>VIRA_NEW_<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 00:21:00 +0000</pubDate>
+			<pubDate>Tue, 05 Aug 2022 00:21:00 +0000</pubDate>
 		</item>
                 <item>
-			<guid>11</guid>
+			<guid>1</guid>
 			<title>VIRA_title</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 10:21:00 +0000</pubDate>
+			<pubDate>Tue, 05 Aug 2022 10:21:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>3</guid>
@@ -76,23 +76,23 @@
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
+			<pubDate>Tue, 05 Aug 2022 12:27:00 +0000</pubDate>
 		</item>
                 <item>
-			<guid>22</guid>
+			<guid>2</guid>
 			<title>VIRA_new Kusama-backed DEX Mangata X to Launch Bootstrapping on June 8</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:28:00 +0000</pubDate>
+			<pubDate>Tue, 05 Aug 2022 12:28:00 +0000</pubDate>
 		</item>
                 <item>
-			<guid>33</guid>
+			<guid>3</guid>
 			<title>VIRA_title3</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
+			<pubDate>Tue, 07 Aug 2022 12:27:00 +0000</pubDate>
 		</item>
 		
 	</channel>
