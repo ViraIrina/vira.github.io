@@ -56,23 +56,23 @@
 		</item>
                 <item>
 			<guid>2</guid>
-			<title>VIRA_title</title>
-			<description>VIRA_NEW_<![CDATA[Über den Smartbroker...]]></description>
+			<title>VIRA_title2</title>
+			<description>VIRA_NEW_2<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 08 Aug 2022 00:21:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>1</guid>
-			<title>VIRA_title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
+			<title>VIRA_title1</title>
+			<description>1<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 08 Aug 2022 10:21:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>3</guid>
-			<title>VIRA_Top 10 Cryptos Lose -50% Since January, Except TRX, Gaining +5%</title>
+			<title>3VIRA_Top 10 Cryptos Lose -50% Since January, Except TRX, Gaining +5%</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
@@ -80,11 +80,11 @@
 		</item>
                 <item>
 			<guid>2</guid>
-			<title>VIRA_new Kusama-backed DEX Mangata X to Launch Bootstrapping on June 8</title>
+			<title>2VIRA_new Kusama-backed DEX Mangata X to Launch Bootstrapping on June 8</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 08 Aug 2022 10:28:00 +0000</pubDate>
+			<pubDate>Tue, 08 Aug 2022 01:28:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>3</guid>
