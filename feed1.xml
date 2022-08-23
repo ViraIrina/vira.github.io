@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 	<channel>
-		<title>Noticias ahora</title>
+		<title>Feed1-Noticias ahora</title>
 		<link>https://www.europapress.es</link>
 		<description>Noticias de actualidad</description>
 		<language>es-ES</language>
 		<item>
-			<title>L’Europa non si fa influenzare dalle paure delle Borse asiatiche e procede cauta ma positiva</title>
+			<title>Feed1-L’Europa non si fa influenzare dalle paure delle Borse asiatiche e procede cauta ma positiva</title>
 			<link>https://www.proiezionidiborsa.it/leuropa-non-si-fa-influenzare-dalle-paure-delle-borse-asiatiche-e-procede-cauta-ma-positiva/</link>
 			<dc:creator>
 			<![CDATA[ Rossana Prezioso ]]>
 			</dc:creator>
-			<pubDate>Mon, 20 Aug 2022 00:30:31 +0000</pubDate>
+			<pubDate>Mon, 22 Aug 2022 00:30:31 +0000</pubDate>
 			<category>
 			<![CDATA[ Economia e Mercati ]]>
 			</category>
@@ -45,54 +45,54 @@
 		</item>
 		<item>
 			<guid>00000000-0000-0000-0000-000000000000</guid>
-			<title>VIRA_NEW (NASDAQ:LION) Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
+			<title>Feed1-VIRA_NEW (NASDAQ:LION) Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
 			<description><![CDATA[Über den Smartbroker...]]>
 			<p><li><a href="www.site.com">text A &amp; 'B'</a></li>
 			</p>
 			</description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 11 Aug 2022 01:29:00 +0000</pubDate>
+			<pubDate>Tue, 23 Aug 2022 01:29:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>2</guid>
-			<title>VIRA_title2</title>
+			<title>Feed1-VIRA_title2</title>
 			<description>VIRA_NEW_2<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 11 Aug 2022 00:21:00 +0000</pubDate>
+			<pubDate>Tue, 23 Aug 2022 00:21:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>1</guid>
-			<title>VIRA_title1</title>
+			<title>Feed1-VIRA_title1</title>
 			<description>1<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 11 Aug 2022 01:21:00 +0000</pubDate>
+			<pubDate>Tue, 23 Aug 2022 01:21:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>3</guid>
-			<title>3VIRA_Top 10 Cryptos Lose -50% Since January, Except TRX, Gaining +5%</title>
+			<title>Feed1-3VIRA_Top 10 Cryptos Lose -50% Since January, Except TRX, Gaining +5%</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 11 Aug 2022 12:27:00 +0000</pubDate>
+			<pubDate>Tue, 23 Aug 2022 12:27:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>2</guid>
-			<title>2VIRA_new Kusama-backed DEX Mangata X to Launch Bootstrapping on June 8</title>
+			<title>Feed1-2VIRA_new Kusama-backed DEX Mangata X to Launch Bootstrapping on June 8</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 11 Aug 2022 01:28:00 +0000</pubDate>
+			<pubDate>Tue, 23 Aug 2022 01:28:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>3</guid>
-			<title>VIRA_title3</title>
+			<title>Feed1-VIRA_title3</title>
 			<description><![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 17 Aug 2022 12:27:00 +0000</pubDate>
+			<pubDate>Tue, 23 Aug 2022 12:27:00 +0000</pubDate>
 		</item>
 		
 	</channel>
