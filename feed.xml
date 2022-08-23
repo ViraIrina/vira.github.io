@@ -55,7 +55,7 @@
 			<pubDate>Tue, 23 Aug 2022 01:29:00 +0000</pubDate>
 		</item>
                 <item>
-			<guid>2</guid>
+			<guid>GUID TEST 2</guid>
 			<title>VIRA_title2</title>
 			<description>VIRA_NEW_2<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
