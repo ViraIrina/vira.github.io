@@ -46,8 +46,9 @@
 		<item>
 			<guid>00000000-0000-0000-0000-000000000000</guid>
 			<title>Feed1-VIRA_NEW (NASDAQ:LION) Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
-			<description><![CDATA[Über den Smartbroker...]]>
+			<description><![CDATA[Über den Smartbroker...<p><img src="https://img3.gelonghui.com/d1c73-1edd4408-0fe3-4320-a821-c5518a8995aa.png" style="margin-top: 0px; margin-bottom: 0px;"></p>]]>
 			<p><li><a href="www.site.com">text A &amp; 'B'</a></li>
+			<p><img src="https://img3.gelonghui.com/d1c73-1edd4408-0fe3-4320-a821-c5518a8995aa.png" style="margin-top: 0px; margin-bottom: 0px;"></p>
 			</p>
 			</description>
 			<category domain="tradingview:symbol">CIEA</category>
@@ -55,8 +56,8 @@
 			<pubDate>Tue, 23 Aug 2022 01:29:00 +0000</pubDate>
 		</item>
                 <item>
-			<guid>2</guid>
-			<title>Feed1-VIRA_title2</title>
+			<guid>12345</guid>
+			<title>Feed1 PNG-VIRA_title2</title>
 			<description>VIRA_NEW_2<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
