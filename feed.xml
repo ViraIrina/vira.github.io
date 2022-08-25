@@ -65,16 +65,7 @@
                 <item>
 			<guid>555511115</guid>
 			<title>PNG! VIRA_title1</title>
-			<content:encoded><![CDATA[<p></p>
-			<p>The U.S. Energy Information Administration said Tuesday in its monthly Short Term Energy Outlook that it expects domestic 				production of crude oil, natural gas and coal will all increase next year compared with this year.</p>
-			<p>The EIA forecasts U.S. crude production rising 6.7% to an all-time annual high 12.7M bbl/day in 2023 from 11.9M bbl/day in 2022, U.S. natural gas output climbing to 100B cf/day from 97B cf/day, and U.S. coal production edging up to 601M short tons in 2023 from an expected 599M this year.</p>
-			<p>U.S. electricity consumption is projected to rise 2.4% this year from 2021 and another 0.5% in 2023.</p>
-			<p>The EIA also raised its forecast for average nationwide gasoline prices for this year and next, saying it now expects 2022 pump prices will average $4.07/gal compared to a $4.05 forecast last month, and seeing 2023 prices at $3.59/gal instead of $3.57 in its previous report.</p>
-			<p>The higher forecast comes even as pump prices have dropped sharply over the past eight weeks, tipping below $4.00/gal for the first time since March.</p>
-			<p>ETFs: (<span class="ticker-hover-wrapper">NYSEARCA:USO</span>), (UCO), (SCO), (BNO), (DBO), (USL), (UGA), (<span class="ticker-hover-wrapper">NYSEARCA:UNG</span>), (UGAZF), (DGAZ), (BOIL), (FCG), (KOLD), (UNL)</p>
-			<p>WTI crude oil futures closed <font color="red">-0.3%</font> to $90.50/bbl on Tuesday, unable to hold gains that came after Russia halted crude flows along the Druzhba pipeline toward Hungary, the Czech Republic and Slovakia; front-month U.S. natural gas settled <font color="green">+3.2%</font> at $7.833/MMBtu.</p>
-			<p>U.S. crude oil fell nearly 10% last week, <a href="https://seekingalpha.com/news/3868503-us-crude-oil-tumbled-10-this-week-as-demand-fears-top-supply-concerns?utm_medium=referral&utm_source=tradingview" target="_blank">sliding near their lowest levels in six months</a>.</p>]]>
-			</content:encoded>
+			<description>VIRA_NEW_2<![CDATA[Über den Smartbroker...]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 25 Aug 2022 01:21:00 +0000</pubDate>
